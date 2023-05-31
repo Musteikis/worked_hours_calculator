@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/worked_hours_calculator/static/css/main.821866d1.css",
+    "main.js": "/worked_hours_calculator/static/js/main.3048e9ae.js",
+    "index.html": "/worked_hours_calculator/index.html",
+    "main.821866d1.css.map": "/worked_hours_calculator/static/css/main.821866d1.css.map",
+    "main.3048e9ae.js.map": "/worked_hours_calculator/static/js/main.3048e9ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.821866d1.css",
+    "static/js/main.3048e9ae.js"
+  ]
+}
